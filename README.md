@@ -1,4 +1,4 @@
-# Public-Samples-Android
+# AR-Kudan
 A demonstration of some of the features of the Kudan Android SDK
 
 Instructions:
